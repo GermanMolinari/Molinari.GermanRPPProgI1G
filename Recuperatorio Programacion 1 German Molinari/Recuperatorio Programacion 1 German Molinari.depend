@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637023285 source:c:\users\ana\desktop\ger\facultad\recuperatorio parcial 1 programacion\recuperatorio programacion 1 german molinari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
